@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora de Expressões Numéricas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="background-overlay"></div>
+
+    <div class="container">
+      <h1 class="title">Calculadora de Expressões Numéricas</h1>
+
+      <!-- Seção de Input -->
+      <div class="input-section">
+        <label for="expressionInput" class="input-label">Digite as expressões (uma por linha):</label>
+        <textarea
+          id="expressionInput"
+          class="expression-input"
+          placeholder="Ex:&#10;1 + 3&#10;2 - 3 * 2&#10;2 ^ 3 / 4&#10;0 * 5 * (4 + 1)&#10;5 + 5 / 0&#10;5 + + 1&#10;5 + ( 465 + 1"
+          rows="8"
+          tabindex="1"
+        ></textarea>
+      </div>
+
+      <!-- Seção de Botões -->
+      <div class="buttons-section">
+        <button id="calculateBtn" class="btn-animated" tabindex="2">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Calcular
+        </button>
+
+        <button id="returnBtn" class="btn-animated return-btn" tabindex="3">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Retornar
+        </button>
+      </div>
+      <br />
+      <br />
+      <!-- Seção de Resultado -->
+      <div class="result-section">
+        <h3 class="result-title">Resultado</h3>
+        <div id="resultOutput" class="result-output">
+          <p class="result-placeholder">Digite as expressões e clique em "Calcular" para ver os resultados.</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
