@@ -4,7 +4,7 @@
 
 A Calculadora de Expressões Numéricas Cyberpunk Edition é uma aplicação web avançada que combina funcionalidade matemática robusta com um design visual impressionante inspirado no universo cyberpunk.
 
-##🎨 Design Futurista
+## 🎨 Design Futurista
 
 **Visual Cyberpunk**: Cores neon (ciano/magenta), efeitos de brilho e transparências
 **Animações Fluidas**: Botões com animações de borda personalizadas
