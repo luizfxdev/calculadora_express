@@ -41,7 +41,7 @@ Algoritmo Avançado: Implementação do Shunting Yard para precisão máxima
 🌟 **Hover Effects**: Interações visuais responsivas
 🌟 **Scrollbar Customizada**: Detalhes visuais em cada elemento
 
-##📱 Responsividade Total
+## 📱 Responsividade Total
 
 💻 Desktop: Layout horizontal otimizado
 📱 Mobile: Botões empilhados e texto adaptativo
