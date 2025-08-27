@@ -22,7 +22,7 @@ Algoritmo Avançado: Implementação do Shunting Yard para precisão máxima
 
 ## ✨ Características
 
-###🔥 Funcionalidades Principais
+### 🔥 Funcionalidades Principais
 
 ✅ **Cálculo de Expressões Múltiplas**: Processe várias expressões simultaneamente
 ✅ **Validação de Sintaxe**: Detecta automaticamente erros de formatação
